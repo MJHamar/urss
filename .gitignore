@@ -1,5 +1,3 @@
-.vscode/
-build/
-tests/dot/
-*.DS_Store
-gb_collect_*.tex
+.github
+.vscode
+oink/build
